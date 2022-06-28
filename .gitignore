@@ -1,0 +1,14 @@
+# Trace output
+shiviz_output.log
+trace_output.log
+
+# Executables
+bin/
+
+# Persisted logs
+persister_*.log
+
+# IDE
+.idea/
+
+.DS_Store
